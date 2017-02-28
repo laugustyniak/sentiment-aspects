@@ -5,3 +5,4 @@ visualized how the attitude of chosen aspects (especially persons, countries) ch
 
 Augustyniak, Ł., Rajda, K., Kajdanowicz, T. Method for aspect-based sentiment
  annotation using rhetorical analysis, ACIIDS 2017.
+ 
