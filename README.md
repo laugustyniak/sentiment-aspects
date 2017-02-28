@@ -36,4 +36,5 @@ projects in 2016-2019._
  
  
 ![RENOIR](/images/renoir_logo_small.png)
+
 ![Wroclaw University of Science and Technology](/images/wrust.png)
