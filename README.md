@@ -4,7 +4,7 @@
 Repository consist of works on aspect-based sentiment analysis, compared and 
 visualized how the attitude of chosen aspects (especially persons, countries)
  changed over time. In the analysis aspect-based sentiment analysis tool was 
- used; it was described and published last year [1]. PWR used a subset of 
+ used; it was described and published in 2016 [1]. PWR used a subset of 
  events related to Brexit gathered through the EventRegistry system 
  [http://eventregistry.org/](http://eventregistry.org). One of 
  the unusual results of the analysis was in it showing that whether the term 
