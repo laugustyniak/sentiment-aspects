@@ -1,5 +1,6 @@
 # Aspect-based Sentiment Analysis
 
+## Introduction
 Repository consist of works on aspect-based sentiment analysis, compared and 
 visualized how the attitude of chosen aspects (especially persons, countries)
  changed over time. In the analysis aspect-based sentiment analysis tool was 
@@ -13,6 +14,16 @@ visualized how the attitude of chosen aspects (especially persons, countries)
  United States news sources (such as USA Today). United Kingdom news sources 
  use term **UK** instead.
 
+## Demo
+The analysis of aspects over time, comparison of different timeframes and 
+various aspects may be coinducted on [Dashboard](http://oxygen.engine.kdm.wcss
+.pl:8088/superset/dashboard/brexit). 
+Credentials:
+> login: aspects
+
+> password: aspects
+
+## References
 > [1] Augustyniak, Ł., Rajda, K., Kajdanowicz, T. **Method for aspect-based 
 sentiment
  annotation using rhetorical analysis**, ACIIDS 2017.
