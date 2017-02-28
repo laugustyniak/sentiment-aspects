@@ -6,7 +6,11 @@ visualized how the attitude of chosen aspects (especially persons, countries) ch
 Augustyniak, Ł., Rajda, K., Kajdanowicz, T. **Method for aspect-based sentiment
  annotation using rhetorical analysis**, ACIIDS 2017.
  
-Acknowledgment: The work was partially supported by The National Science Centre, decision no. DEC-2013/09/B/ST6/02317, The National Science Centre Preludium grant and from the European Union’s Horizon 2020 research and innovation programme un- der the Marie Sk?lodowska-Curie grant agreement No 691152 (RENOIR project). This work was partially supported by the Faculty of Computer Science and Man- agement, Wroc?law University of Science and Technology statutory funds.
+Acknowledgment: 
+_The work was partially supported by The National Science 
+Centre, decision no. DEC-2013/09/B, The National Science Centre Preludium grant and from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 691152 (RENOIR project). 
+Research financed under the fund for supporting internationally co-financed 
+projects in 2016-2019._
  
  
 ![RENOIR](/images/renoir_logo_small.png)
