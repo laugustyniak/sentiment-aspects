@@ -16,8 +16,7 @@ visualized how the attitude of chosen aspects (especially persons, countries)
 
 ## Demo
 The analysis of aspects over time, comparison of different timeframes and 
-various aspects may be coinducted on [Dashboard](http://oxygen.engine.kdm.wcss
-.pl:8088/superset/dashboard/brexit). 
+various aspects may be coinducted on [Dashboard](http://oxygen.engine.kdm.wcss.pl:8088/superset/dashboard/brexit). 
 Credentials:
 > login: aspects
 
