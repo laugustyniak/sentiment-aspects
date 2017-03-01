@@ -16,7 +16,7 @@ visualized how the attitude of chosen aspects (especially persons, countries)
 
 ## Demo
 The analysis of aspects over time, comparison of different timeframes and 
-various aspects may be coinducted on [Dashboard](http://oxygen.engine.kdm.wcss.pl:8088/superset/dashboard/brexit). 
+various aspects may be conducted on [Dashboard](http://oxygen.engine.kdm.wcss.pl:8088/superset/dashboard/brexit). 
 Credentials:
 > login: aspects
 
@@ -24,8 +24,7 @@ Credentials:
 
 ## References
 > [1] Augustyniak, Ł., Rajda, K., Kajdanowicz, T. **Method for aspect-based 
-sentiment
- annotation using rhetorical analysis**, ACIIDS 2017.
+sentiment annotation using rhetorical analysis**, ACIIDS 2017.
  
 ##Acknowledgment: 
 > _The work was partially supported by The National Science 
