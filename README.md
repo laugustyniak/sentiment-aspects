@@ -20,7 +20,7 @@ various aspects may be conducted on [Dashboard](http://oxygen.engine.kdm.wcss.pl
 Credentials:
 > login: aspects
 
-> password: **contact me for password**
+> password: **contact me to get password**
 
 ![RENOIR](/images/dashboard-demo.png)
 ![RENOIR](/images/dashboard-demo-cameron.png)
