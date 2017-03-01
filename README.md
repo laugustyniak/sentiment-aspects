@@ -23,6 +23,7 @@ Credentials:
 > password: **contact me for password**
 
 ![RENOIR](/images/dashboard-demo.png)
+![RENOIR](/images/dashboard-demo-cameron.png)
 
 ## References
 > [1] Augustyniak, Ł., Rajda, K., Kajdanowicz, T. **Method for aspect-based 
