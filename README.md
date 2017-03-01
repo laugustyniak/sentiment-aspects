@@ -20,7 +20,9 @@ various aspects may be conducted on [Dashboard](http://oxygen.engine.kdm.wcss.pl
 Credentials:
 > login: aspects
 
-> password: aspects
+> password: **contact me for password**
+
+![RENOIR](/images/dashboard-demo.png)
 
 ## References
 > [1] Augustyniak, Ł., Rajda, K., Kajdanowicz, T. **Method for aspect-based 
